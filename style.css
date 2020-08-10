@@ -13,9 +13,8 @@
     padding: 10px;
 }
 .but{
-    position: fixed;
-    bottom: 100px;
-    left: 150px;
+    background-color: aliceblue;
+    padding: 10px;
 }
 .que{
     padding: 10px;
